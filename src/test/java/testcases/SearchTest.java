@@ -11,6 +11,7 @@ import org.testng.annotations.Test;
 
 import com.tutorialsninja.qa.base.Base;
 
+// Test class for search functionality test cases
 public class SearchTest extends Base {
 	public SearchTest() throws IOException {//constructor to load properties file from parent constructor
 		super();
